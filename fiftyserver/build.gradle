@@ -1,0 +1,9 @@
+apply plugin: 'java'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':sqljdbc4-3.0')
+    compile project(':mysql-connector-java-5.1.14-bin')
+    compile project(':java-json')
+    compile project(':javax.json-1.0')
+}

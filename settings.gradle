@@ -1,0 +1,1 @@
+include ':app', ':fiftyserver', ':sqljdbc4-3.0', ':mysql-connector-java-5.1.14-bin', ':java-json', ':javax.json-1.0'

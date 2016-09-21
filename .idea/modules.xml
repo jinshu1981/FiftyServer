@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FiftyServer1.iml" filepath="$PROJECT_DIR$/FiftyServer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiftyserver/fiftyserver.iml" filepath="$PROJECT_DIR$/fiftyserver/fiftyserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-json/java-json.iml" filepath="$PROJECT_DIR$/java-json/java-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javax.json-1.0/javax.json-1.0.iml" filepath="$PROJECT_DIR$/javax.json-1.0/javax.json-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-connector-java-5.1.14-bin/mysql-connector-java-5.1.14-bin.iml" filepath="$PROJECT_DIR$/mysql-connector-java-5.1.14-bin/mysql-connector-java-5.1.14-bin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqljdbc4-3.0/sqljdbc4-3.0.iml" filepath="$PROJECT_DIR$/sqljdbc4-3.0/sqljdbc4-3.0.iml" />
+    </modules>
+  </component>
+</project>
